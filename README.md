@@ -70,7 +70,7 @@ docker-compose up --build
 
 ### 4. Accede a la API
 
-- API: http://localhost:8000
+<!-- - API: http://localhost:8000 -->
 - Documentación interactiva: http://localhost:8000/docs
 
 ---
