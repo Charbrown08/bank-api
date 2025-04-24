@@ -29,7 +29,6 @@ Thumbs.db
 
 # Python environment
 .env
-.env.*
 
 # Docker
 *.pid
@@ -67,4 +66,3 @@ dist/
 *.swp
 *.swo
 
-.env
