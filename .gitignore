@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+*.egg-info/
+.eggs/
+*.egg
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+pip-wheel-metadata/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environment
+.env
+.env.*
+
+# Docker
+*.pid
+*.seed
+*.bak
+*.backup
+docker-compose.override.yml
+
+# MongoDB
+dump/
+*.bson
+*.mongodump
+
+# Test outputs
+htmlcov/
+.coverage
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# SonarCloud or lint tools
+.sonar/
+.mypy_cache/
+pylint-report.txt
+
+# Jupyter Notebooks 
+.ipynb_checkpoints/
+
+# Build
+build/
+dist/
+
+# GitHub-specific
+*.swp
+*.swo
+
+.env
